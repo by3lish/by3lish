@@ -15,3 +15,6 @@
 </br>
 </br>
 <h3 align="left">Web Development</h3>
+<a href="https://byelish.gq/qr-kod-hazirlayici"> Qr Code Maker </a> - This tool help you to make qr code easily, type anything to input box and press button
+</br>
+<a 
