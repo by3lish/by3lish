@@ -3,7 +3,7 @@
 
 ## <h1 align="center"> About me </h1>
 <h3 align="center" >Hi i am Elish</h3>
-<p align="center"> Web Developer / Web Designer / Bot Developer </p>
+<p align="center">Web Developer/Web Designer/Bot Developer</p>
 <p align="center"><a href="https://byelish.gq">Official site</a></p>
 
 ## <h1 align="center"> My Projects </h1>
@@ -20,5 +20,3 @@
 <a href="https://byelish.gq/to-do-list"> To-do List </a> - Are you forgetting to do something? If your answer is yes, this tool is for you. Thanks to this tool, you can write the jobs you will do in order and delete them after completing them.
 <h6></h6>
 <a href="https://byelish.gq/sifre-hazirlayici">Strong Password Generator</a> - You will be able to create strong passwords with this tool. Just type how many digits your password should be, what characters should be in it and click the button.
-## <h1 align="center"> Contact </h1>
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://instagram.com/whoiselish)
